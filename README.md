@@ -6,7 +6,6 @@ Este repositório contém os projetos desenvolvidos durante o NLW Unite, evento 
 
 ## Projeto Pass In
 
-Clique aqui
 ## Tecnologias
 
 **Front-end:** React, TailwindCSS
